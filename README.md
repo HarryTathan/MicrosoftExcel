@@ -3,3 +3,8 @@ Power Query in Excel and DAX give users a competitive edge to import data from a
 We will work on Data Cleaning, Analysis and Building professional looking Dash Boards with Power Excel and will work on datasets using power query, power pivot and DAX.
 In the projects we will be perfoming complex data lookups and will use functions like INDEX(), MATCH(), VLOOKUP(), Indirect(), and other advanced nested functions.
 Also, we will use Form controls and interactive charts to create professional looking and detail oriented dashboards.
+
+
+# Dashboards: 
+<img width="1077" height="660" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/a08e06e5-8982-4b58-b614-e0f33556fdec" />
+
